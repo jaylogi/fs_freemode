@@ -42,8 +42,10 @@ local locations = {
   {name="Fake ID Production", id=498, c=4, x=378.646, y=-834.4833, z=29.292},
   {name="Office", id=475, c=4, x=-79.25, y=-833.75, z=30},
   {name="Bunker", id=557, c=4, x=2110.75, y=3326.50, z=30.0}
+  {name="Clubhouse_01", id=375, c=4, x=1100.94, y=-3159.28, z=-37.51}
+  {name="Clubhouse_02", id=375, c=4, x=1005.98, y=-3157.56, z=-38.90}
+  {name="LostClubhouse", id=375, c=4, x=984.96, y=-95.20, z=74.847}
 }
-
 Citizen.CreateThread(function()
  if (Setup.blips == true) then
     for _, item in pairs(locations) do
