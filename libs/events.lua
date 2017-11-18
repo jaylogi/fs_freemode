@@ -15,7 +15,7 @@ end)
 
 RegisterNetEvent("fs_freemode:initStats")
 AddEventHandler("fs_freemode:initStats", function(cash)
-	StatSetInt("MP0_WALLET_BALANCE", cash, true)
+	StatSetInt("MP0_WALLET_BALANCE", cash, false)
 end)
 
 RegisterNetEvent("fs_freemode:notify")
