@@ -1,5 +1,6 @@
 # fs_freemode
-[![Version](https://img.shields.io/badge/Version-1.3-brightgreen.svg)]()
+[![Version](https://img.shields.io/badge/Version-1.3-brightgreen.svg)][![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFiveM-Scripts%2Ffs_freemode.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FFiveM-Scripts%2Ffs_freemode?ref=badge_shield)
+()
 <a href="https://discord.gg/Cgr5FU6" title="Chat on Discord"><img alt="Discord Status" src="https://discordapp.com/api/guilds/285462938691567627/widget.png"></a>
 
 ## Requirements
@@ -23,3 +24,6 @@ this repo is maintained under the [Semantic Versioning guidelines](http://semver
 
 ## License
 This resource is released under the [GNU GPLv3](license.md) license.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFiveM-Scripts%2Ffs_freemode.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FFiveM-Scripts%2Ffs_freemode?ref=badge_large)
